@@ -7,7 +7,7 @@ package texture
 
 import (
 	"fmt"
-	"github.com/g3n/engine/util/logger"
+	"github.com/adamlenda/engine/util/logger"
 	"image"
 	"image/draw"
 	_ "image/gif"
@@ -15,7 +15,7 @@ import (
 	_ "image/png"
 	"os"
 
-	"github.com/g3n/engine/gls"
+	"github.com/adamlenda/engine/gls"
 )
 
 // Package logger

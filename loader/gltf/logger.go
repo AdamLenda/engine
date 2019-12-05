@@ -5,7 +5,7 @@
 package gltf
 
 import (
-	"github.com/g3n/engine/util/logger"
+	"github.com/adamlenda/engine/util/logger"
 )
 
 // Package logger

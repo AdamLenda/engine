@@ -7,8 +7,8 @@ package gui
 import (
 	"path/filepath"
 
-	"github.com/g3n/engine/math32"
-	"github.com/g3n/engine/window"
+	"github.com/adamlenda/engine/math32"
+	"github.com/adamlenda/engine/window"
 )
 
 // buildPanel builds an object of type Panel

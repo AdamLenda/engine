@@ -6,8 +6,8 @@
 package solver
 
 import (
-	"github.com/g3n/engine/experimental/physics/equation"
-	"github.com/g3n/engine/math32"
+	"github.com/adamlenda/engine/experimental/physics/equation"
+	"github.com/adamlenda/engine/math32"
 )
 
 // ISolver is the interface type for all constraint solvers.

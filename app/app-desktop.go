@@ -8,10 +8,10 @@ package app
 
 import (
 	"fmt"
-	"github.com/g3n/engine/audio/al"
-	"github.com/g3n/engine/audio/vorbis"
-	"github.com/g3n/engine/renderer"
-	"github.com/g3n/engine/window"
+	"github.com/adamlenda/engine/audio/al"
+	"github.com/adamlenda/engine/audio/vorbis"
+	"github.com/adamlenda/engine/renderer"
+	"github.com/adamlenda/engine/window"
 	"time"
 )
 

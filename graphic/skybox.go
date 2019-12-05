@@ -5,12 +5,12 @@
 package graphic
 
 import (
-	"github.com/g3n/engine/core"
-	"github.com/g3n/engine/geometry"
-	"github.com/g3n/engine/gls"
-	"github.com/g3n/engine/material"
-	"github.com/g3n/engine/math32"
-	"github.com/g3n/engine/texture"
+	"github.com/adamlenda/engine/core"
+	"github.com/adamlenda/engine/geometry"
+	"github.com/adamlenda/engine/gls"
+	"github.com/adamlenda/engine/material"
+	"github.com/adamlenda/engine/math32"
+	"github.com/adamlenda/engine/texture"
 )
 
 // Skybox is the Graphic that represents a skybox.

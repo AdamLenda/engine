@@ -5,9 +5,9 @@
 package gui
 
 import (
-	"github.com/g3n/engine/gui/assets/icon"
-	"github.com/g3n/engine/math32"
-	"github.com/g3n/engine/window"
+	"github.com/adamlenda/engine/gui/assets/icon"
+	"github.com/adamlenda/engine/math32"
+	"github.com/adamlenda/engine/window"
 
 	"time"
 )

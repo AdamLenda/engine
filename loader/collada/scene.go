@@ -6,11 +6,11 @@ package collada
 
 import (
 	"fmt"
-	"github.com/g3n/engine/core"
-	"github.com/g3n/engine/gls"
-	"github.com/g3n/engine/graphic"
-	"github.com/g3n/engine/material"
-	"github.com/g3n/engine/math32"
+	"github.com/adamlenda/engine/core"
+	"github.com/adamlenda/engine/gls"
+	"github.com/adamlenda/engine/graphic"
+	"github.com/adamlenda/engine/material"
+	"github.com/adamlenda/engine/math32"
 	"strings"
 )
 

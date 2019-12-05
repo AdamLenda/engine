@@ -5,9 +5,9 @@
 package light
 
 import (
-	"github.com/g3n/engine/core"
-	"github.com/g3n/engine/gls"
-	"github.com/g3n/engine/math32"
+	"github.com/adamlenda/engine/core"
+	"github.com/adamlenda/engine/gls"
+	"github.com/adamlenda/engine/math32"
 )
 
 // Directional represents a directional, positionless light

@@ -1,8 +1,8 @@
 
 <p align="center"><img width="150" src="https://github.com/g3n/g3nd/blob/master/data/images/g3n_logo.png" alt="G3N Banner"/></p>
 <p align="center">
-  <a href="https://godoc.org/github.com/g3n/engine"><img src="https://godoc.org/github.com/g3n/engine?status.svg" alt="Godoc"></img></a>
-  <a href="https://goreportcard.com/report/github.com/g3n/engine"><img src="https://goreportcard.com/badge/github.com/g3n/engine"  alt="Go Report Card"/></a>
+  <a href="https://godoc.org/github.com/adamlenda/engine"><img src="https://godoc.org/github.com/adamlenda/engine?status.svg" alt="Godoc"></img></a>
+  <a href="https://goreportcard.com/report/github.com/adamlenda/engine"><img src="https://goreportcard.com/badge/github.com/adamlenda/engine"  alt="Go Report Card"/></a>
 </p>
 <p><h1 align="center">G3N - Go 3D Game Engine</h1></p>
 
@@ -61,7 +61,7 @@ Install the development files of OpenAL and Vorbis using [Homebrew](https://brew
 The following set of commands will download and install the engine along with all its Go dependencies:
   
 ```
-git clone https://github.com/g3n/engine g3n-engine
+git clone https://github.com/adamlenda/engine g3n-engine
 cd g3n-engine
 go install ./...
 ```
@@ -98,19 +98,19 @@ The code below is a basic "hello world" application ([hellog3n](https://github.c
 package main
 
 import (
-	"github.com/g3n/engine/app"
-	"github.com/g3n/engine/camera"
-	"github.com/g3n/engine/core"
-	"github.com/g3n/engine/geometry"
-	"github.com/g3n/engine/gls"
-	"github.com/g3n/engine/graphic"
-	"github.com/g3n/engine/gui"
-	"github.com/g3n/engine/light"
-	"github.com/g3n/engine/material"
-	"github.com/g3n/engine/math32"
-	"github.com/g3n/engine/renderer"
-	"github.com/g3n/engine/util/helper"
-	"github.com/g3n/engine/window"
+	"github.com/adamlenda/engine/app"
+	"github.com/adamlenda/engine/camera"
+	"github.com/adamlenda/engine/core"
+	"github.com/adamlenda/engine/geometry"
+	"github.com/adamlenda/engine/gls"
+	"github.com/adamlenda/engine/graphic"
+	"github.com/adamlenda/engine/gui"
+	"github.com/adamlenda/engine/light"
+	"github.com/adamlenda/engine/material"
+	"github.com/adamlenda/engine/math32"
+	"github.com/adamlenda/engine/renderer"
+	"github.com/adamlenda/engine/util/helper"
+	"github.com/adamlenda/engine/window"
 	"time"
 )
 
@@ -189,12 +189,12 @@ For more complex demos please see the [G3N demo program](https://github.com/g3n/
 
 ## Documentation
 
-The complete engine API reference can be found here: [![GoDoc](https://godoc.org/github.com/g3n/engine?status.svg)](https://godoc.org/github.com/g3n/engine).
+The complete engine API reference can be found here: [![GoDoc](https://godoc.org/github.com/adamlenda/engine?status.svg)](https://godoc.org/github.com/adamlenda/engine).
 
 There is also the beginning of a Getting Started Guide, and a newly created list of Guides and Tutorials:
 
-* [Getting Started](https://github.com/g3n/engine/wiki/Getting-Started-(WIP))
-* [Guides and Tutorials](https://github.com/g3n/engine/wiki/Guides-and-Tutorials)
+* [Getting Started](https://github.com/adamlenda/engine/wiki/Getting-Started-(WIP))
+* [Guides and Tutorials](https://github.com/adamlenda/engine/wiki/Guides-and-Tutorials)
 
 Along with those, a good way to learn how to use the engine is to see the source code of [G3ND - the G3N demo](https://github.com/g3n/g3nd).
   

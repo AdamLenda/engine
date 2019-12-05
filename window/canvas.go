@@ -8,8 +8,8 @@ package window
 
 import (
 	"fmt"
-	"github.com/g3n/engine/core"
-	"github.com/g3n/engine/gls"
+	"github.com/adamlenda/engine/core"
+	"github.com/adamlenda/engine/gls"
 	_ "image/png"
 	"syscall/js"
 )
